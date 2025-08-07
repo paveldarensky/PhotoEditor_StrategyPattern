@@ -51,7 +51,7 @@ Lightweight image editor demonstrating the **Strategy design pattern** for brush
 
 ## 🖼 Screenshots / Скриншоты
 
-![Диаграмма](images/screenshot_main.png)  
+![Диаграмма](images/diagramm.png)  
 *Рис. 1 — Паттерн «Стратегия» в архитектуре программы*
 
 ---
